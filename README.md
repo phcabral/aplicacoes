@@ -1,0 +1,4 @@
+aplicacoes
+==========
+
+Repositório para aplicações
